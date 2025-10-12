@@ -3,15 +3,12 @@
 **Backend Developer | PHP/Symfony | Go | Rust**
 
 ---
-
 ## 👨‍💻 About Me
 
-Backend Developer con 8+ anni di esperienza in **PHP/Symfony**, specializzato in **system integration**.
-
-Attualmente sto studiando **Go** per applicazioni cloud e **Rust** per sistemi ad alte prestazioni.
+Backend Developer with 8+ years of experience in **PHP/Symfony**, specialized in **system integration**.
+Currently studying **Go** for cloud applications and **Rust** for high-performance systems.
 
 ---
-
 ## 🛠 Tech Stack
 
 | Category       | Technologies                                                                 |
@@ -23,36 +20,31 @@ Attualmente sto studiando **Go** per applicazioni cloud e **Rust** per sistemi a
 | **Tools**      | Git, GitHub Actions, TDD, CI/CD                                             |
 
 ---
-
 ## 💼 Work Experience
 
 ### **3Caravelle S.r.l.** (2024-Present)
 **Backend Developer**
-- Integrazione sistemi di telemedicina con il FSE (Fascicolo Sanitario Elettronico)
-- Modernizzazione di applicazioni monolitiche in architettura microservices
-- Migrazione a AWS Cognito per l'autenticazione
+- Integration of telemedicine systems with the Italian Electronic Health Record (FSE)
+- Modernization of monolithic applications into microservices architecture
+- Migration to AWS Cognito for authentication
 
 ### **ovosodo s.r.l.** (2022-2023)
 **Full Stack Developer**
-- Sviluppo di 10+ siti web per partner
-- Gestione di un progetto mobile (PHP + React)
+- Development of 10+ websites for partners
+- Management of a mobile project (PHP + React)
 
 ---
-
 ## 🚀 Projects
 
 Work in progress!
 
 ---
-
 ## 🤝 Open to
 
 - **Remote work opportunities** (preferably in EU/UK)
 - **Collaborations** on open source projects
-- **Tech discussions** on backend development, cloud, and Rust
 
 ---
-
 ## 📅 Let's Connect!
 
 - 📫 Email: edoardotavecchio@gmail.com
