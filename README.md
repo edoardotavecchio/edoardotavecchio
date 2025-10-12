@@ -1,6 +1,6 @@
 # Edoardo Tavecchio 👋
 
-**Backend Developer | PHP/Symfony | Go | Rust**
+**Backend Developer ⚙️ | PHP/Symfony 🐘 | Go 🇴 | Rust 🦀 **
 
 ---
 ## 👨‍💻 About Me
@@ -24,14 +24,25 @@ Currently studying **Go** for cloud applications and **Rust** for high-performan
 
 ### **3Caravelle S.r.l.** (2024-Present)
 **Backend Developer**
-- Integration of telemedicine systems with the Italian Electronic Health Record (FSE)
-- Modernization of monolithic applications into microservices architecture
-- Migration to AWS Cognito for authentication
+- Led integration of partner's telemedicine system with the Italian National Health Record
+- Contributed to architectural upgrade from monolithic to microservices-based application
+- Designed solution for legacy authentication system migration to AWS Cognito IdP
 
-### **ovosodo s.r.l.** (2022-2023)
+### **ovosodo s.r.l.** (part of Zucchetti Hospitality S.r.l.) (2022-2023)
 **Full Stack Developer**
-- Development of 10+ websites for partners
-- Management of a mobile project (PHP + React)
+- Configured and deployed 10+ websites for partners customizing proprietary CMS
+- Enhanced CMS capabilities developing new features and refactoring legacy code
+- Acted as manager and developer for a mobile application project (PHP backend + React frontend)
+
+### **FIT S.r.l.** (2021-2022)
+**Backend Developer**
+- Integrated external CMS with internal CMS for customer data management
+- Developed a Laravel microservice for customer data management
+
+### **Integra S.r.l.** (2017-2020)
+**Web Developer, Product Manager and Helpdesk**
+- Provided support and developed dashboards (plain PHP, HTML)
+- Maintenance for IoT devices related to remote energy data reading
 
 ---
 ## 🚀 Projects
