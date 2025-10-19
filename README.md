@@ -22,7 +22,7 @@ Currently studying **Python** for cloud applications and **Rust** for high-perfo
 ---
 ## 🚀 Projects
 
-Work in progress!
+[Python tracking gold](https://github.com/edoardotavecchio/python-tracking-gold): Tool che integra le [API di Alpha Vantage](https://www.alphavantage.co/documentation/) per restituire il prezzo di mercato, in tempo reale, dell'oro da fonti responsabili.
 
 ---
 ## 🤝 Open to
