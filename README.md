@@ -13,8 +13,8 @@ Currently studying **Go** for cloud applications and **Rust** for high-performan
 
 | Category       | Technologies                                                                 |
 |----------------|-----------------------------------------------------------------------------|
-| **Languages**  | PHP, Go, Rust, JavaScript                                                   |
-| **Frameworks** | Symfony, Laravel, Gin, React                                                |
+| **Languages**  | PHP, Python, Rust                                                           |
+| **Frameworks** | Symfony, Laravel, FastAPI                                                   |
 | **Databases**  | MySQL, PostgreSQL, Redis                                                    |
 | **Cloud**      | AWS (Cognito, EC2), Docker, Serverless                                      |
 | **Tools**      | Git, GitHub Actions, TDD, CI/CD                                             |
