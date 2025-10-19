@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 
 Backend Developer with 8+ years of experience in **PHP/Symfony**, specialized in **system integration**.
-Currently studying **Go** for cloud applications and **Rust** for high-performance systems.
+Currently studying **Python** for cloud applications and **Rust** for high-performance systems.
 
 ---
 ## 🛠 Tech Stack
