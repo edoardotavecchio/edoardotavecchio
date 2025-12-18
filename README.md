@@ -1,6 +1,6 @@
 # Edoardo Tavecchio 👋
 
-**Backend Developer ⚙️ | PHP/Symfony 🐘 | Python 🐍 | Rust 🦀**
+**Backend Developer ⚙️ | PHP/Symfony 🐘**
 
 ---
 ## 👨‍💻 About Me
