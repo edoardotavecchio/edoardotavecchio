@@ -1,6 +1,6 @@
 # Edoardo Tavecchio 👋
 
-**Backend Developer ⚙️ | PHP/Symfony 🐘 | Go 🧿**
+**Backend Developer ⚙️ | PHP/Symfony 🐘**
 
 ---
 ## 👨‍💻 About Me
@@ -13,7 +13,7 @@ Currently studying **Python** for cloud applications and **Rust** for high-perfo
 
 | Category       | Technologies                                                                |
 |----------------|-----------------------------------------------------------------------------|
-| **Languages**  | PHP, Go                                                                     |
+| **Languages**  | PHP                                                                         |
 | **Frameworks** | Symfony, Laravel                                                            |
 | **Databases**  | MySQL, PostgreSQL, Redis                                                    |
 | **Cloud**      | AWS (Cognito, EC2), Docker, Serverless                                      |
